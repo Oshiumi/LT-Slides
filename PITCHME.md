@@ -17,12 +17,13 @@ Monolith 鴛海太一
 
 脳は **ニューロン** と呼ばれる神経細胞が **シナプス** と呼ばれる結合部位を介して結合している
 
-#### は？ |
+は？ |
 
 ---
 
 ### パーセプトロン
-![perceptron](images/perceptron.png)
+
+![perceptron](/images/perceptron.png)
 
 ---
 
