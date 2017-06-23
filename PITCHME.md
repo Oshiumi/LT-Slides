@@ -22,7 +22,7 @@ Monolith 鴛海太一
 ---
 
 ### パーセプトロン
-![perceptron](https://raw.githubusercontent.com/Oshiumi/LT-Slides/master/images/perceptron.ng)
+![perceptron](images/perceptron.ng)
 
 ---
 
