@@ -23,7 +23,7 @@ Monolith 鴛海太一
 
 ### パーセプトロン
 
----?image=images/perceptron&size=auto 90%
+---?image=images/perceptron.png&size=auto 90%
 
 ---
 
