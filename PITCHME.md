@@ -23,7 +23,7 @@ Monolith 鴛海太一
 
 ### パーセプトロン
 
-![perceptron](/images/perceptron.png =200x)
+![perceptron](./images/perceptron.png =200x)
 
 ---
 
