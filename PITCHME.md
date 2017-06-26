@@ -23,8 +23,7 @@ Monolith 鴛海太一
 
 ---?image=images/perceptron.png&size=auto 90%
 
---- 
-
+Note:
 a(x)は負の値を0，それ以外を1とするしきい関数．
 (この関数a()のことを活性化関数または出力関数という)
 
