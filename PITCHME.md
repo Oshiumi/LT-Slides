@@ -31,7 +31,7 @@ a(x)は負の値を0，それ以外を1とするしきい関数．
 
 ### 階層型ニューラルネットワーク
 
----?image=images/hierarchical.png&size=auto 80%
+---?image=images/hierarchical.png&size=auto 90%
 
 Note:
 入力層，中間層（隠れ層），出力層
