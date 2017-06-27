@@ -106,9 +106,5 @@ Note:
 ### 確率的勾配降下法
 
 
-\begin{equation}
-\begin{split}
-w_{k,j}^{(n+1)} \gets w_{k,j}^{(n+1)} - \eta \frac {\partial R(W)} {\partial w_{k,j}^{(n+1)}} \\
-$$w_{k,j}^{(n+1)} \gets w_{k,j}^{(n+1)} - \eta \delta_j^{(n+1)}y_k^{(n)}$$ \\
-\end{split}
-\end{equation}
+$$w_{k,j}^{(n+1)} \gets w_{k,j}^{(n+1)} - \eta \frac {\partial R(W)} {\partial w_{k,j}^{(n+1)}}
+w_{k,j}^{(n+1)} \gets w_{k,j}^{(n+1)} - \eta \delta_j^{(n+1)}y_k^{(n)} $$
