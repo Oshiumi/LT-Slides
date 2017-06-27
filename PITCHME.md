@@ -107,6 +107,6 @@ Note:
 
 $$w\_{k,j}^{n+1} \gets w\_{k,j}^{n+1} - \eta \frac {\partial R(W)} {\partial w\_{k,j}^{(n+1)}}$$
 損失関数を
-$$R(x)= \frac {1}{2} \sum_i$$
+$$R(x)= \frac {1}{2} $$
 とすると
 $$w\_{k,j}^{(n+1)} \gets w\_{k,j}^{(n+1)} - \eta \delta\_j^{(n+1)}y\_k^{(n)}$$
