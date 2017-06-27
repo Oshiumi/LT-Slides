@@ -1,3 +1,4 @@
 theme: black
 slide-number: true
 transition: slide
+mathjax : TeX-MML-AM_HTMLorMML-full
