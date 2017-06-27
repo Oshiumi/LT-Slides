@@ -110,5 +110,13 @@ $$w\_{k,j}^{n+1} \gets w\_{k,j}^{n+1} - \eta \frac {\partial R(W)} {\partial w\_
 $$R(x)= \frac {1}{2} \sum\_j (t\_j - y\_j^{(N)})^2$$
 とすると
 $$w\_{k,j}^{(n+1)} \gets w\_{k,j}^{(n+1)} - \eta \delta\_j^{(n+1)}y\_k^{(n)}$$
+ここで $y\_k^{(n)}$ は第n層の第kノードの出力
+
 
 ---
+
+### 確率的勾配降下法
+
+ここで
+$$\delta\_j^{(N)}=-(t\_j - y\_j^{(N)})y\_j^{(N)} (a-y\_j^{(N)})$$
+$$\delta\_j^{(N)}=\{\sum\_{k=1}^{K\_{n+1}}\delta\_j^{(n+1)}w\_{k,j}^{(n+1)}\}y\_j^{(n)}(1-y\_j^{(n)})$$
